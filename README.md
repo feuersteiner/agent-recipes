@@ -1,4 +1,4 @@
-# agent-snippets
+# agent-recipes
 
 Turn instructions into reusable CLI workflows.
 
